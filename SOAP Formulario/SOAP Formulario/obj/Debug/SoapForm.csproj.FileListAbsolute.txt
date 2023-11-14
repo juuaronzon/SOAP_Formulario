@@ -1,0 +1,11 @@
+C:\Users\PC-1\Desktop\WebService Soap Form\FORMSOAP\bin\Debug\FORMSOAP.exe.config
+C:\Users\PC-1\Desktop\WebService Soap Form\FORMSOAP\bin\Debug\FORMSOAP.exe
+C:\Users\PC-1\Desktop\WebService Soap Form\FORMSOAP\bin\Debug\FORMSOAP.pdb
+C:\Users\PC-1\Desktop\WebService Soap Form\FORMSOAP\obj\Debug\SoapForm.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\WebService Soap Form\FORMSOAP\obj\Debug\SoapForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC-1\Desktop\WebService Soap Form\FORMSOAP\obj\Debug\FORMSOAP.Form1.resources
+C:\Users\PC-1\Desktop\WebService Soap Form\FORMSOAP\obj\Debug\FORMSOAP.Properties.Resources.resources
+C:\Users\PC-1\Desktop\WebService Soap Form\FORMSOAP\obj\Debug\SoapForm.csproj.GenerateResource.cache
+C:\Users\PC-1\Desktop\WebService Soap Form\FORMSOAP\obj\Debug\SoapForm.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\WebService Soap Form\FORMSOAP\obj\Debug\FORMSOAP.exe
+C:\Users\PC-1\Desktop\WebService Soap Form\FORMSOAP\obj\Debug\FORMSOAP.pdb

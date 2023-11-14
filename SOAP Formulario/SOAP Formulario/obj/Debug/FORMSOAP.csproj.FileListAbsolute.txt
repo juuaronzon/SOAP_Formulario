@@ -1,0 +1,11 @@
+C:\Users\PC-1\source\repos\FORMSOAP\FORMSOAP\bin\Debug\FORMSOAP.exe.config
+C:\Users\PC-1\source\repos\FORMSOAP\FORMSOAP\bin\Debug\FORMSOAP.exe
+C:\Users\PC-1\source\repos\FORMSOAP\FORMSOAP\bin\Debug\FORMSOAP.pdb
+C:\Users\PC-1\source\repos\FORMSOAP\FORMSOAP\obj\Debug\FORMSOAP.csproj.AssemblyReference.cache
+C:\Users\PC-1\source\repos\FORMSOAP\FORMSOAP\obj\Debug\FORMSOAP.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC-1\source\repos\FORMSOAP\FORMSOAP\obj\Debug\FORMSOAP.Form1.resources
+C:\Users\PC-1\source\repos\FORMSOAP\FORMSOAP\obj\Debug\FORMSOAP.Properties.Resources.resources
+C:\Users\PC-1\source\repos\FORMSOAP\FORMSOAP\obj\Debug\FORMSOAP.csproj.GenerateResource.cache
+C:\Users\PC-1\source\repos\FORMSOAP\FORMSOAP\obj\Debug\FORMSOAP.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\source\repos\FORMSOAP\FORMSOAP\obj\Debug\FORMSOAP.exe
+C:\Users\PC-1\source\repos\FORMSOAP\FORMSOAP\obj\Debug\FORMSOAP.pdb
